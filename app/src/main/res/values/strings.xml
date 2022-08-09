@@ -14,4 +14,9 @@
     <string name="Nama">Albanna Rahmadani Sulityo</string>
     <string name="Kelas">IF-7</string>
     <string name="Email">alba.sulistyo@gmail.com</string>
+    <string name="logout">logout</string>
+    <string name="login">Login</string>
+    <string name="reg">User baru? Klik disini</string>
+    <string name="register">Register</string>
+    <string name="login_text">Sudah punya akun? klik disini</string>
 </resources>

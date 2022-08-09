@@ -10,7 +10,12 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Uts_10119270">
         <activity
-            android:name="com.example.uas_10119270.SplashActivity"
+            android:name=".RegisterActivity"
+            android:exported="false" />
+        <activity
+            android:name=".LoginActivity"/>
+        <activity
+            android:name=".SplashActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -18,8 +23,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="com.example.uas_10119270.MainActivity"></activity>
-        <activity android:name="com.example.uas_10119270.NoteDetailActivity"></activity>
+        <activity android:name=".MainActivity" />
+        <activity android:name=".NoteDetailActivity" />
     </application>
 
 </manifest>
