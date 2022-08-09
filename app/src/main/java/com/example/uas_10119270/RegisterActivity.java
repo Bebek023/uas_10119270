@@ -16,6 +16,10 @@ import com.google.android.gms.tasks.Task;
 import com.google.firebase.auth.AuthResult;
 import com.google.firebase.auth.FirebaseAuth;
 
+//10119270
+//Albanna Rahmadani Sulistyo
+//IF-7
+
 public class RegisterActivity extends AppCompatActivity {
 
     private FirebaseAuth auth;
