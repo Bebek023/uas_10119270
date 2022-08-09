@@ -1,6 +1,5 @@
-package com.example.uts_10119270;
+package com.example.uas_10119270;
 
-import androidx.annotation.NonNull;
 import androidx.fragment.app.Fragment;
 import androidx.fragment.app.FragmentManager;
 import androidx.fragment.app.FragmentPagerAdapter;

@@ -1,4 +1,4 @@
-package com.example.uts_10119270;
+package com.example.uas_10119270;
 
 import android.content.Context;
 import android.view.LayoutInflater;
