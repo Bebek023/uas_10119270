@@ -8,7 +8,7 @@
     <string name="judul">Judul</string>
     <string name="catatan">Catatan</string>
     <string name="delete">DELETE</string>
-    <string name="info1">Aplikasi yang dibangun untuk memenuhi ujian tengah semester dari mata kuliah Aplikasi Komputasi Bergerak</string>
+    <string name="info1">Aplikasi yang dibangun untuk memenuhi ujian akhir semester dari mata kuliah Aplikasi Komputasi Bergerak</string>
     <string name="info2">Aplikasi ini memiliki fungsi dasar untuk membuat catatan harian. \n Aplikasi dengan tiga buah menu, yaitu menu profile pembuat, menu untuk membuat catatan, dan menu yang menampilkan informasi aplikasi </string>
     <string name="Nim">10119270</string>
     <string name="Nama">Albanna Rahmadani Sulityo</string>
